@@ -1,6 +1,6 @@
 # Faulkner-et-al-2024
 
-This repository includes code for reproducing main results and figures for the paper "Context flexibly modulates cue representations in visual cortex" submitted to Nature Communications
+This repository includes code for reproducing main results and figures for the paper "Context flexibly modulates cue representations in visual cortex" submitted to Nature Communications.
 
 ## System Requirements
 
@@ -22,8 +22,8 @@ Installation can take a few minutes depending on your system.
 ## Demo
 ### Notebooks
 
-The [notebooks](notebooks) directory contains Jupyter notebooks for reproducing main results and figures in the paper.
-The underlying data for reproducing these results is provided in the [data](data) directory.
+The [notebooks](notebooks/) directory contains Jupyter notebooks for reproducing main results and figures in the paper.
+The underlying data for reproducing these results is provided in the [data](data/) directory.
 Run the following in a command line terminal (from the repository directory) to start JupyterLab:
 ```
 cd notebooks
